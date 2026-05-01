@@ -40,6 +40,13 @@ border-radius:10px;
 text-align-last:center;
 }
 
+.fill{
+height:8px;
+background:#3b82f6;
+border-radius:5px;
+transition:width 1s ease-in-out;
+}
+
 .card:hover{
 transform: translateY(-5px);
 box-shadow:0 10px 20px rgba(0,0,0,0.3);
